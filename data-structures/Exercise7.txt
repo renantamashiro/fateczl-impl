@@ -1,0 +1,24 @@
+## Primeira etapa
+
+* Elicitar os requisitos do sistema
+* Validar os requisitos
+* Elaborar os casos de uso
+* Elaborar os protótipos de baixa fidelidade
+* Elaborar os diagramas de classes
+
+
+## Segunda etapa
+
+* Modelar a arquitetura geral do sistema
+* Selecionar as ferramentas para produção do sistema
+
+
+## Terceira etapa
+
+* Implementação do sistema
+
+
+## Quarta etapa
+
+* Realizar os testes necessários
+* Correções

@@ -1,0 +1,8 @@
+O artigo analisa o desempenho de seis grupos de estruturas de dados utilizando o conceito de complexidade de tempo para três operações: inserção, deleção e busca.
+
+Cada categoria de estrutura de dados descrita no artigo pode apresentar variações em seu tempo de execução para cada tipo de operação e, também, considerando o tamanho dos dados.
+
+Enquanto algumas estruturas como a Pilha e a Fila possuem tempos de execução constante para inserção, deleção e busca, outras, como as Listas e Árvores binárias possuem variações substanciais no tempo de execução para cada tipo de operação e tamanho dos dados.
+
+Dessa forma, para determinar qual tipo de estruturas de dados devemos utilizar para uma determinada situação, devemos considerar as operações a serem realizadas pela aplicação a fim de otimizarmos o tempo de execução dessas operações.
+
