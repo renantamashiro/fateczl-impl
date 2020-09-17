@@ -5,7 +5,7 @@
 Arranjo simples de alocação estática de memória em que os elementos são organizados um após o outro e de tamanho previamente estabelecido
 
 #### Simulações
-![lista-encadeada](https://github.com/renantamashiro/fateczl-impl/blob/master/data-structures/java/atividade1/diagrams/lista-encadeada.png)
+![lista-encadeada](./diagrams/lista-encadeada.png)
 
 ## Lista Circular
 Mesma definição da lista estática, entretanto, o último elemento possui uma ligação com o primeiro da lista. Dessa forma, caso um elemento seja removido da lista, não ocorre a realocação das posições dos outros elementos, e a posição do elemento removido ficará disponível para inserção de novos dados.
