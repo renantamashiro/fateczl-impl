@@ -48,6 +48,14 @@ public class ListTemperature {
                 return;
             }
 
+            Temperature current = this.head;
+            while (current.getNext() != null) {
+                current = current.getNext();
+            }
+
+            current.setNext(t);
+
+
             Temperature lastTemperature = getLastTemperature(this.head);
             lastTemperature.setNext(t);
 
