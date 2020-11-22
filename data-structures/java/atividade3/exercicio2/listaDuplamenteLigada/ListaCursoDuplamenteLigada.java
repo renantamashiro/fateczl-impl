@@ -9,7 +9,7 @@ class Head {
 }
 
 
-public class ListaCurso {
+class ListaCurso {
 
     private Head head;
 
